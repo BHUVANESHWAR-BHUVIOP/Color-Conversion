@@ -25,8 +25,8 @@ Use merge() to combine those separate channels into color.
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By: BHUVANESHWAR V
+# Register Number: 212221240009
 # i) Convert BGR and RGB to HSV and GRAY
 
 import cv2
